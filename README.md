@@ -36,9 +36,17 @@ It acts as a **bridge between AI and GitHub**, allowing AI agents to perform Git
 
 github-mcp/
 │
+
+
 ├── server.py          # MCP server with GitHub tools
+
 ├── .env               # Environment variables (NOT pushed to GitHub)
+
+
 ├── requirements.txt   # Python dependencies (optional)
+
+
+
 └── README.md
 
 ````
