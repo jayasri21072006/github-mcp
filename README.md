@@ -158,7 +158,7 @@ This project enables:
 
 **Jayasri T**
 
-Internship Project – AI + Data Science
+
 
 ---
 
